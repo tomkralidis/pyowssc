@@ -27,7 +27,4 @@
 # OTHER DEALINGS IN THE SOFTWARE.
 #
 # =================================================================
-
-__version__ = '0.0.1'
-
-__all__ = ['model', 'view', 'util']
+__version__ = '0.1.0'
